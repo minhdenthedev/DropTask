@@ -1,5 +1,5 @@
 import argparse
-from droptask import services
+from src.droptask import services
 
 
 def cli():
