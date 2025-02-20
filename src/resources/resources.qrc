@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/menu.png</file>
+    <file>icons/add.png</file>
+    <file>icons/add_folder.png</file>
+    <file>icons/filter.png</file>
+    <file>icons/focus_sidebar.png</file>
+    <file>icons/logo.png</file>
+    <file>icons/minus.png</file>
+    <file>icons/planned_sidebar.png</file>
+    <file>icons/search.png</file>
+    <file>icons/settings.png</file>
+    <file>icons/sort_asc.png</file>
+    <file>icons/sort_desc.png</file>
+    <file>icons/todo_sidebar.png</file>
+  </qresource>
+</RCC>
